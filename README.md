@@ -5,19 +5,19 @@ This project aims to develop a robust machine learning model for detecting fraud
 
 ## What's It All About?
 
-So, here's the scoop: we've built a nifty tool that sniffs out those sneaky fraudulent credit card transactions using some fancy machine learning magic. It's like having a vigilant guardian keeping watch over your precious credit card.
+So, here's the scoop: I've built a nifty tool that sniffs out those sneaky fraudulent credit card transactions using some fancy machine learning magic. It's like having a vigilant guardian keeping watch over your precious credit card.
 
 ## What's the Game Plan?
 
-We've got it all figured out:
+This model has got it all figured out:
 
-1. **Data Cleanup**: We tidy up our dataset, getting it all spick and span for our model to work its magic.
+1. **Data Cleanup**: It tidy ups the dataset, getting it all spick and span for the model to work its magic.
 
-2. **Leveling the Playing Field**: Since spotting fraud can be like finding a needle in a haystack, we balance our dataset using some smart undersampling tricks.
+2. **Leveling the Playing Field**: Since spotting fraud can be like finding a needle in a haystack, this model balances the dataset using some smart undersampling tricks.
 
-3. **Training Time**: We train our model, a trusty logistic regression buddy, to learn the patterns of fraudulent transactions.
+3. **Training Time**: This model has been trained, a trusty logistic regression buddy, to learn the patterns of fraudulent transactions.
 
-4. **Showtime**: It's time for the big reveal! We put our model to the test, checking out how accurate it is at catching those pesky fraudsters.
+4. **Showtime**: It's time for the big reveal!This model is put to test now, checking out how accurate it is at catching those pesky fraudsters.
 
 ## How to Join the Fun
 
@@ -25,7 +25,7 @@ Here's how you can get in on the action:
 
 1. **Clone Away**: Grab a copy of our code from this repository.
   
-2. **Get Pythonized**: Make sure you've got Python installed along with the other bits and bobs listed in `requirements.txt`.
+2. **Get Pythonized**: Make sure you've got Python installed along with the other bits.
 
 3. **Fire It Up**: Run the `main.py` script, and voilà! Our Streamlit web app springs to life.
 
@@ -33,7 +33,7 @@ Here's how you can get in on the action:
 
 ## What's in the Dataset?
 ## DATASET LINK: https://drive.google.com/drive/folders/1DnQrOHFSe-cmSaKRFiXTmL2yrWFwy0Mj?usp=drive_link
-Our dataset is packed with credit card transactions, each one with nifty details like transaction amount, time, and, most importantly, whether it's a good ol' legal transaction or a sneaky fraudulent one.
+This dataset is packed with credit card transactions, each one with nifty details like transaction amount, time, and, most importantly, whether it's a good ol' legal transaction or a sneaky fraudulent one.
 
 ## Contribution
 Feel free to contribute to this project by opening issues, submitting pull requests, or sharing your feedback and suggestions!
